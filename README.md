@@ -18,7 +18,7 @@ This Project is single page implementation Splash Application Programming Interf
 
 # Deployment
 
-The Project deployment link is https://assessmenttask.netlify.app/
+The Project deployment link is [Deployed assessment link](https://assessmenttask.netlify.app/)
 
 # Built-With
 
